@@ -1,8 +1,4 @@
-a = input("Var a: ")
-b = input("Var b: ")
+city = input("What is the city name that you grew up at?\n")
+pet = input("What is your pet's name?\n")
 
-a1 = b
-b1 = a
-
-print("a " + a1)
-print("b " + b1)
+print("Well, your band's name should be: " + city + " " + pet)
